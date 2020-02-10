@@ -15,21 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming Skills"
+  description = """Experienced in **Python**.<br/>
+  Familliar with C++, ROOT, Matlab, Mathematica."""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "atom"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Advanced Physics Courses"
+  description = """
+  All advanced undergraduate-level courses.<br/> Also graduate-level courses:<br/> Advanced Quantum Mechanics, Group Theory, Quantum Information.
+  """ 
+
+[[feature]]
+  icon = "server"
+  icon_pack = "fas"
+  name = "Scientific Computing"
+  description = """
+  Compuational physics course.<br/> Experinces in **high performance computing**.
+  """
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "robot"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Mahine Learning"
+  description = """Practiced PCA, random forest, nerual networks, etc. Known a wide range of machine learing algorithms in classification, regression, reinforcement learning. Besides, learned a bite of machine learning theory."""
+
+  
 
 +++
