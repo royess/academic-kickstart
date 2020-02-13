@@ -19,7 +19,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Programming Skills"
   description = """Experienced in **Python**.<br/>
-  Familliar with C++, ROOT, Matlab, Mathematica."""
+  Familiar with C++, ROOT, Matlab, Mathematica."""
   
 [[feature]]
   icon = "atom"
@@ -34,14 +34,14 @@ subtitle = ""
   icon_pack = "fas"
   name = "Scientific Computing"
   description = """
-  Compuational physics course.<br/> Experinces in **high performance computing**.
+  Computational physics course.<br/> Experiences in **high performance computing**.
   """
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Mahine Learning"
-  description = """Practiced PCA, random forest, nerual networks, etc. Known a wide range of machine learing algorithms in classification, regression, reinforcement learning. Besides, learned a bite of machine learning theory."""
+  name = "Machine Learning"
+  description = """Practiced PCA, random forest, neural networks, etc. Known a wide range of machine learning algorithms in classification, regression, reinforcement learning. Besides, learned a bite of machine learning theory."""
 
   
 

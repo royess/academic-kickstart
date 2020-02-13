@@ -18,7 +18,7 @@ organizations:
   url: "http://www.phy.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational physics, machine learning. And I have experience in studying phenomena in heavy ions collisons, which is a typically *complex system*. (Now looking for PhD positions in 2021.)
+bio: My research interests include computational physics, machine learning. And I have experience in studying phenomena in heavy ions collisions, which is a typically *complex system*. (Now looking for PhD positions in 2021.)
 
 interests:
 - High energy nuclear physics
@@ -78,4 +78,4 @@ My interest is the physics in complex systems. For instance, my on-going work is
 
 Typically, computer simulation and statistical analysis are what we use in such problems. And recently, we find machine learning methods can sometimes give inspirations as well. But the disadvantage is clear: the results are often hard to interpret and thus unconvincing. So I'm also trying to find ways to solve complex-system problems with machine learning with absence of the interpretability difficulty.
 
-<!--- TODO:Make it short! ---> 
+<!--- TODO:Make it short! --->
